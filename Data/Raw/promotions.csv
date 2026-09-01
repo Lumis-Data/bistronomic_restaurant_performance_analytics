@@ -1,0 +1,4 @@
+promotion_id,promotion_code,promotion_name,promotion_discount_pct
+1,PRM001,Aucune promotion,0.0
+2,PRM002,Menu Déjeuner,0.1
+3,PRM003,Happy Hour,0.15

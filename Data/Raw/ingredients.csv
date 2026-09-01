@@ -1,0 +1,64 @@
+ingredient_id,ingredient_code,ingredient_name,ingredient_unit,ingredient_unit_cost
+1,ING001,Jambon,g,0.022
+2,ING002,Saucisson,g,0.025
+3,ING003,Pain,g,0.003
+4,ING004,Burrata,g,0.06
+5,ING005,Truffe,g,2.5
+6,ING006,Tomates,g,0.004
+7,ING007,Huile Olive,ml,0.018
+8,ING008,Dorade,g,0.022
+9,ING009,Citron vert,g,0.008
+10,ING010,Oignon,g,0.002
+11,ING011,Coriandre,g,0.025
+12,ING012,Escargots,u,0.7
+13,ING013,Beurre,g,0.009
+14,ING014,Ail,g,0.008
+15,ING015,Persil,g,0.015
+16,ING016,Farine,g,0.001
+17,ING017,Mozza,g,0.015
+18,ING018,Basilic,g,0.02
+19,ING019,Salami,g,0.02
+20,ING020,Champignons,g,0.015
+21,ING021,Emmental,g,0.012
+22,ING022,Gorgonzola,g,0.018
+23,ING023,Chèvre,g,0.018
+24,ING024,Bœuf,g,0.025
+25,ING025,Pommes de terre,g,0.002
+26,ING026,Poivre,g,0.04
+27,ING027,Crème,ml,0.006
+28,ING028,Fleur de sel,g,0.01
+29,ING029,Herbes,g,0.03
+30,ING030,Bar,g,0.028
+31,ING031,Citron,g,0.005
+32,ING032,Fenouil,g,0.004
+33,ING033,Linguine,g,0.004
+34,ING034,Palourdes,g,0.018
+35,ING035,Vin blanc,ml,0.015
+36,ING036,Riz,g,0.003
+37,ING037,Asperges,g,0.012
+38,ING038,Parmesan,g,0.022
+39,ING039,Tofu,g,0.012
+40,ING040,Lait coco,ml,0.008
+41,ING041,Curry,g,0.03
+42,ING042,Canard,g,0.018
+43,ING043,Graisse,g,0.005
+44,ING044,Chocolat,g,0.015
+45,ING045,Œufs,u,0.3
+46,ING046,Sucre,g,0.002
+47,ING047,Meringue,u,0.5
+48,ING048,Fruits,g,0.015
+49,ING049,Pâte,g,0.006
+50,ING050,Fromage,g,0.02
+51,ING051,Noix,g,0.025
+52,ING052,Bordeaux Grand Cru,ml,0.03
+53,ING053,Vin Rouge Maison,ml,0.007
+54,ING054,Chablis Premier Cru,ml,0.02
+55,ING055,Sancerre Blanc,ml,0.019
+56,ING056,Champagne Cuvée,ml,0.05
+57,ING057,Café,g,0.05
+58,ING058,Prosecco,ml,0.012
+59,ING059,Apérol,ml,0.015
+60,ING060,Pomme,g,0.003
+61,ING061,Gingembre,g,0.015
+62,ING062,Cognac,ml,0.04
+63,ING063,Thé,g,0.05
